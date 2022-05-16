@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Laboratorio FireBase</string>
+    <string name="app_name_home">Home del APP Laboratorio FireBase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Laboratorio FireBase</string>
+    <string name="nav_header_subtitle">Juan Antonio Meza/Milton</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Login</string>
+    <string name="menu_slideshow">Registro</string>
+    <string name="menu_logout">Salir</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
